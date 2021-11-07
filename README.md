@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyu104&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyu104&show_icons=true&layout=compact&theme=vue)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104)](https://github-profile-trophy.vercel.app/?username=kamyu104)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)
